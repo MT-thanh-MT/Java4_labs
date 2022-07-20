@@ -1,0 +1,6 @@
+127.0.0.1 - - [27/Jun/2022:14:10:43 +0700] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [27/Jun/2022:14:10:44 +0700] "GET /Lab2/TamGiacServelet/chuvi HTTP/1.1" 200 551
+0:0:0:0:0:0:0:1 - - [27/Jun/2022:14:10:44 +0700] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [27/Jun/2022:14:11:06 +0700] "POST /Lab2/TamGiacServelet/chuvi HTTP/1.1" 200 579
+0:0:0:0:0:0:0:1 - - [27/Jun/2022:14:11:16 +0700] "POST /Lab2/TamGiacServelet/dientich HTTP/1.1" 200 585
+0:0:0:0:0:0:0:1 - - [27/Jun/2022:14:11:36 +0700] "POST /Lab2/TamGiacServelet/dientich HTTP/1.1" 200 586

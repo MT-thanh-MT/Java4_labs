@@ -1,0 +1,17 @@
+127.0.0.1 - - [27/Nov/2021:20:09:52 +0700] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [27/Nov/2021:20:09:54 +0700] "GET /Lab2/views/register.jsp HTTP/1.1" 200 1041
+0:0:0:0:0:0:0:1 - - [27/Nov/2021:20:09:55 +0700] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [27/Nov/2021:20:14:09 +0700] "GET /Lab2/views/register.jsp HTTP/1.1" 200 1304
+0:0:0:0:0:0:0:1 - - [27/Nov/2021:20:14:48 +0700] "GET /Lab2/views/register.jsp HTTP/1.1" 200 1304
+0:0:0:0:0:0:0:1 - - [27/Nov/2021:20:15:48 +0700] "GET /Lab2/views/register.jsp HTTP/1.1" 200 1291
+0:0:0:0:0:0:0:1 - - [27/Nov/2021:20:30:37 +0700] "GET /Lab2/views/register.jsp HTTP/1.1" 200 2402
+0:0:0:0:0:0:0:1 - - [27/Nov/2021:20:32:03 +0700] "GET /Lab2/views/register.jsp HTTP/1.1" 200 2422
+0:0:0:0:0:0:0:1 - - [27/Nov/2021:20:46:16 +0700] "GET /Lab2/views/register.jsp HTTP/1.1" 200 4153
+0:0:0:0:0:0:0:1 - - [27/Nov/2021:20:47:05 +0700] "GET /Lab2/views/register.jsp HTTP/1.1" 200 4169
+0:0:0:0:0:0:0:1 - - [27/Nov/2021:20:51:35 +0700] "GET /Lab2/views/register.jsp HTTP/1.1" 200 4440
+0:0:0:0:0:0:0:1 - - [27/Nov/2021:20:52:25 +0700] "GET /Lab2/views/register.jsp HTTP/1.1" 200 4441
+0:0:0:0:0:0:0:1 - - [27/Nov/2021:20:52:51 +0700] "GET /Lab2/views/register.jsp HTTP/1.1" 200 4443
+127.0.0.1 - - [27/Nov/2021:21:23:30 +0700] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [27/Nov/2021:21:23:31 +0700] "GET /Lab2/RegisterServlet HTTP/1.1" 200 4225
+0:0:0:0:0:0:0:1 - - [27/Nov/2021:21:27:44 +0700] "GET /Lab2/RegisterServlet HTTP/1.1" 200 4438
+0:0:0:0:0:0:0:1 - - [27/Nov/2021:21:29:09 +0700] "POST /Lab2/RegisterServlet HTTP/1.1" 200 4489

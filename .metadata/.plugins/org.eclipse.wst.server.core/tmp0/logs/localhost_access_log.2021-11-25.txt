@@ -1,0 +1,13 @@
+127.0.0.1 - - [25/Nov/2021:09:16:25 +0700] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [25/Nov/2021:09:16:27 +0700] "GET /Lab2/views/tamGiac.jsp HTTP/1.1" 200 581
+0:0:0:0:0:0:0:1 - - [25/Nov/2021:09:16:38 +0700] "POST /Lab2/views/TamGiacServlet/chuvi HTTP/1.1" 404 794
+127.0.0.1 - - [25/Nov/2021:15:24:32 +0700] "GET / HTTP/1.1" 404 751
+127.0.0.1 - - [25/Nov/2021:15:26:38 +0700] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [25/Nov/2021:15:26:39 +0700] "GET /Lab2/TamGiacServelet/chuvi HTTP/1.1" 200 551
+0:0:0:0:0:0:0:1 - - [25/Nov/2021:15:26:39 +0700] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [25/Nov/2021:15:26:43 +0700] "POST /Lab2/TamGiacServelet/chuvi HTTP/1.1" 500 1391
+0:0:0:0:0:0:0:1 - - [25/Nov/2021:15:26:55 +0700] "POST /Lab2/TamGiacServelet/chuvi HTTP/1.1" 200 585
+0:0:0:0:0:0:0:1 - - [25/Nov/2021:15:27:02 +0700] "POST /Lab2/TamGiacServelet/chuvi HTTP/1.1" 200 579
+0:0:0:0:0:0:0:1 - - [25/Nov/2021:15:27:10 +0700] "POST /Lab2/TamGiacServelet/dientich HTTP/1.1" 200 581
+0:0:0:0:0:0:0:1 - - [25/Nov/2021:15:27:45 +0700] "POST /Lab2/TamGiacServelet/dientich HTTP/1.1" 200 581
+0:0:0:0:0:0:0:1 - - [25/Nov/2021:15:27:52 +0700] "POST /Lab2/TamGiacServelet/dientich HTTP/1.1" 200 587

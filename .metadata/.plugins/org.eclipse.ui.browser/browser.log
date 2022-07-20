@@ -1,0 +1,26 @@
+
+June 27, 2022 10:29:21.378 NEW SESSION
+June 27, 2022 10:29:21.378 [12464:10436:0627/102921.377:ERROR:device_event_log_impl.cc(214)] [10:29:21.377] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+June 27, 2022 10:29:21.379 [12464:10436:0627/102921.378:ERROR:device_event_log_impl.cc(214)] [10:29:21.377] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+June 27, 2022 10:29:21.379 [12464:10436:0627/102921.378:ERROR:device_event_log_impl.cc(214)] [10:29:21.377] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+
+July 10, 2022 08:34:52.234 NEW SESSION
+July 10, 2022 08:34:52.234 [17036:9640:0710/083452.233:ERROR:device_event_log_impl.cc(214)] [08:34:52.233] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+July 10, 2022 08:34:52.267 [17036:9640:0710/083452.233:ERROR:device_event_log_impl.cc(214)] [08:34:52.233] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+July 10, 2022 08:34:52.268 [17036:9640:0710/083452.233:ERROR:device_event_log_impl.cc(214)] [08:34:52.234] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+July 10, 2022 08:35:50.96 [17036:15412:0710/083550.096:ERROR:util.cc(127)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+July 10, 2022 08:42:38.261 [17036:9640:0710/084238.261:ERROR:interface_endpoint_client.cc(665)] Message 1 rejected by interface blink.mojom.WidgetHost
+July 10, 2022 08:50:35.950 [17036:9640:0710/085035.949:ERROR:device_event_log_impl.cc(214)] [08:50:35.949] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+July 10, 2022 11:28:34.30 [17036:9640:0710/112834.030:ERROR:interface_endpoint_client.cc(665)] Message 1 rejected by interface blink.mojom.WidgetHost
+July 10, 2022 11:29:44.788 [17036:9640:0710/112944.787:ERROR:interface_endpoint_client.cc(665)] Message 1 rejected by interface blink.mojom.WidgetHost
+July 10, 2022 11:35:15.877 [17036:9640:0710/113515.877:ERROR:interface_endpoint_client.cc(665)] Message 0 rejected by interface blink.mojom.WidgetHost
+July 10, 2022 12:57:12.884 [17036:2656:0710/125712.882:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+July 10, 2022 12:57:12.957 [17036:2656:0710/125712.883:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+July 10, 2022 12:57:13.200 [17036:9640:0710/125713.200:ERROR:device_event_log_impl.cc(214)] [12:57:13.199] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+July 10, 2022 13:35:39.181 [17036:2480:0710/133539.181:ERROR:util.cc(127)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+July 10, 2022 19:21:35.258 [17036:18436:0710/192135.230:ERROR:util.cc(127)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+July 10, 2022 20:11:20.893 [17036:9640:0710/201120.892:ERROR:interface_endpoint_client.cc(665)] Message 1 rejected by interface blink.mojom.WidgetHost
+July 10, 2022 20:56:40.899 [17036:9640:0710/205640.899:ERROR:interface_endpoint_client.cc(665)] Message 0 rejected by interface blink.mojom.WidgetHost
+July 10, 2022 21:02:08.94 [17036:9640:0710/210208.094:ERROR:interface_endpoint_client.cc(665)] Message 1 rejected by interface blink.mojom.WidgetHost
+July 10, 2022 23:12:13.110 [17036:2656:0710/231213.107:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+July 10, 2022 23:12:13.131 [17036:2656:0710/231213.109:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
